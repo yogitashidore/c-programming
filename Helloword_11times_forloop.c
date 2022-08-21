@@ -10,7 +10,7 @@ int main()
 {
    
    int i;
-   for (i = 0; i <= 11; i = i++)
+   for (i = 0; i <= 10; i = i++)
    {
       printf("Helloword program, this is my first code in c");
       
