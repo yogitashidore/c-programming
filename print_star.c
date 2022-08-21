@@ -1,7 +1,7 @@
 
 //Author : Yogita shidore
 //Date : 21/08/2022
-//print addition of all odd numbers between 1 to 100          
+//print ****       
        
 //input
 //include std input output file
