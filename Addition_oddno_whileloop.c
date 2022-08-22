@@ -18,6 +18,6 @@ int main()
      i=i+2
      sum=sum+1;
   }
-  printf("addition of all odd number from 1 to 10is $d",sum);
+  printf("addition of all odd number from 1 to 10is %d",sum);
    return(0); //returning value -successful
 }
