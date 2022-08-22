@@ -1,0 +1,23 @@
+//Athor : Yogita shidore
+//Date : 22/08/2022
+//print all default value
+
+//input :
+
+//include std input output file
+#include<stdio.h>
+
+//entry point function
+int main()
+{  
+   int a;
+   char ch;
+   float f;
+   double d;
+   
+   printf("\nvalue of a=%d",a);
+   printf("\nvalue of a=%d",ch);
+   printf("\nvalue of a=%d",f); 
+   printf("\nvalue of a=%d",d);
+     return(0); //returning value - successful
+}
