@@ -15,7 +15,7 @@ int main()
   while(i<=10)
   {
      printf("%d",i);
-     i=i+2
+     i=i+2;
      sum=sum+1;
   }
   printf("addition of all even number from 1 to 10is %d",sum);
