@@ -14,6 +14,6 @@ int main()
     
       sum=sum+i;
  }
- printf("\n addition of all odd numbers between 1to 10 +%d,sum");
+ printf("\n addition of all odd numbers between 1to 10 =%d,sum");
    return(0); //returning value - successful
 }
