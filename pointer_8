@@ -1,0 +1,15 @@
+##include<stdio.h>
+int main()
+{
+  //local variable declaration
+  int n = 10; int*p;
+  //code
+  p = &n;
+  //using n
+  prinntf("\nvalue of n = %d", n);
+  printf("\naddress of n = %p", &n);
+  
+  //using p
+  printf("\nvalue of n = %d", *p);
+  return(0);
+}
