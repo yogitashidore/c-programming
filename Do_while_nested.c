@@ -1,8 +1,8 @@
-//print bellow pattern by using nested do while loop    *
-													                             	* *
-											                                	* * *
-													                             	* * * *
-													                            	* * * * *   
+//print bellow pattern by using nested do while loop    * 
+                                                        * *
+	                                                * * *
+			                                * * * *
+					                * * * * *   
                                                         * * * * * *
 #include<stdio.h>
  int main()
