@@ -1,4 +1,5 @@
 #include<stduo.h>
+//file handling
 int main()
 {
    //local variable declaration
