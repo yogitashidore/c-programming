@@ -1,11 +1,11 @@
 
 //Author : Yogita shidore
 //Date : 18/08/2022
-//print even number 2to20 using for loop
+//write a c program print even number 2to20 using for loop.
 
 //input
 //include std input output file
-include<stdio.h>
+#include<stdio.h>
 
 int main()
 {
@@ -18,3 +18,17 @@ int main()
    }
    return(0); //returning value - successful
 }
+
+
+//output : 2
+           4
+           6
+           8
+           10
+           12
+           14
+           16
+           18
+           20   
+              
+        
