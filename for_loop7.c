@@ -1,11 +1,11 @@
 
 //Author : Yogita shidore
 //Date : 18/08/2022
-//print Helloword program 10 times               
+//write a c programprint Helloword program 10 times using for loop.             
        
 //input
 //include std input output file
-include<stdio.h>
+#include<stdio.h>
 
 int main()
 {
