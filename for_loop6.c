@@ -1,6 +1,6 @@
 //Author : Yogita shidore
 //Date : 17/08/2022
-//print Hello 10 times using for loop
+//write a c program print Hello 10 times using for loop.
 
 //input : 
 
@@ -16,3 +16,15 @@ int main()
   }
   return(0);  //returning value - successful 
 }
+
+
+//output : Hello
+           Hello
+           Hello
+           Hello
+           Hello
+           Hello
+           Hello 
+           Hello 
+           Hello
+           Hello  
