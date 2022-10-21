@@ -1,6 +1,6 @@
 //Athor : Yogita shidore
 //Date : 22/08/2022
-//print 0 to 10 using while loop
+//write a c program print 0 to 10 using while loop.
 
 //input :
 
@@ -15,7 +15,20 @@ int main()
   {
     printf("\n%d",i);
     i++;
-}
+  }
 
    return(0); //returning value -successful
 }
+
+//output : 
+              0
+              1
+              2
+              3
+              4
+              5
+              6
+              7
+              8
+              9
+              10
