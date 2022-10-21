@@ -1,6 +1,6 @@
 //Author : Yogita shidore
 //Date : 18/08/2022
-//print odd number 1to20 using for loop
+//write a c program print odd number 1to20 using for loop.
 
 //input : 
 
@@ -18,3 +18,16 @@ int main()
    }
    return(0);  //returning value - successful
 }
+
+
+//output : 1
+           3
+           5
+           7
+           9
+           11
+           13
+           15
+           17
+           19
+              
