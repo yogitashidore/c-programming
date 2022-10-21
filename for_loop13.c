@@ -1,10 +1,10 @@
 //Author : Yogita shidore
 //Date : 18/08/2022
-//print table of 3 using for loop
+//write a c program print table of 3 using for loop.
 
 //input
 //include std input output file
-include<stdio.h>
+#include<stdio.h>
 
 int main()
 {
@@ -17,3 +17,16 @@ int main()
    }
    return(0); //returning value - successful
 }
+
+
+//output :  
+   3
+   6
+   9
+   12
+   15
+   18
+   21
+   24
+   27
+   30
