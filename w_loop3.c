@@ -21,3 +21,11 @@ int main()
   printf("addition of all even number from 1 to 10is %d",sum);
    return(0); //returning value -successful
 }
+
+
+//output:  2
+           4
+           6
+           8
+           10
+          addition of all even number from 1 to 10 is:5
