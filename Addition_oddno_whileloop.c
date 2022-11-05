@@ -21,3 +21,13 @@ int main()
   printf("addition of all odd number from 1 to 10is %d",sum);
    return(0); //returning value -successful
 }
+
+
+
+//output: 1
+          3
+          5
+          7
+          9
+            
+         addition of all odd  number from 1 to 10 is: 5
