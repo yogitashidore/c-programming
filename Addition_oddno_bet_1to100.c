@@ -5,7 +5,7 @@
        
 //input
 //include std input output file
-include<stdio.h>
+#include<stdio.h>
 
 int main()
 {
@@ -14,6 +14,7 @@ int main()
    {
     
      sum=sum+i;
+     printf("%d", i);
  }
     printf("\naddition of all odd numbers between 1 to 100 = %d",sum);
    return(0); //returning value - successful
