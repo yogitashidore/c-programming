@@ -17,6 +17,6 @@ int main()
    scanf("%d", &b);
    add = a+b;
    
-   printf("/nAddition of a & b is: % d"; add);
+   printf("/nAddition of a & b is: % d", add);
    return(0);  //returning responce - successful
 }
