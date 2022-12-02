@@ -1,0 +1,21 @@
+//write a c program print bitwise or.
+//Yogita shidore
+
+
+#include<stdio.h>
+int main()
+{
+	 //variable declaration
+	int num1, num2, ans;
+
+	//code
+	num1 = 2;
+	num2 = 3;
+
+	ans = num1 | num2;
+	printf("\nans = %d", ans);
+	return(0);
+}
+	
+  
+  //output : 3
